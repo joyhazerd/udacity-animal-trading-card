@@ -1,0 +1,82 @@
+h3{ font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 14pt;
+    margin-left: 20px;
+}
+
+li { 
+    list-style-type: none;
+}
+ul{ 
+    list-style: none;
+    padding-left: 10px;
+}
+.bold {
+    font-weight:bold;
+    font-size: 12pt; 
+}
+
+.textbox{
+    border: 1px solid black;
+    border-radius: 15px 15px 15px 15px;
+    height: 270px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: white
+}
+.innerbox{
+    border: 1px solid black;
+    border-radius: 15px 15px 15px 15px;
+    height: 620px;
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: white;
+    box-shadow: 10px 10px 5px 0px rgba(200,197,194,50);
+}
+.outerbox{
+    border: 1px solid white;
+    border-radius: 15px 15px 15px 15px;
+    height: 660px;
+    width: 370px;
+    background-color: white
+}
+
+body {
+    background-color: rgb(200,194,200)
+}  
+
+img.center { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 15px;
+}
+img.resize {
+        width:300px;
+        height: auto;
+}
+
+p { 
+    font-family: .times 'Times New Roman', Times, serif;
+    font-size: 12pt
+}
+
+.italic {
+    font-style:italic;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.marginleft{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
